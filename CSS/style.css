@@ -1,0 +1,12 @@
+.container {
+    width: min(90%, 90rem);
+  }
+  
+  .dark-mode {
+    background-color: black;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+  }
